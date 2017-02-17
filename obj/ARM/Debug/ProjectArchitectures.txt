@@ -1,0 +1,1 @@
+C:\Users\Sylvain\Desktop\adafruitsample-master\adafruitsample-master\Blinky\CS\Blinky.csproj;arm
